@@ -77,7 +77,7 @@ Game.prototype = {
 			if(!that.isRuning){
 				that.start();
 			}else{
-				that.hero.speed = - 0.3;
+				that.hero.speed = - 0.22;
 			}
 		}
 	},	
